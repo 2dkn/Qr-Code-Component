@@ -1,0 +1,23 @@
+$color-white: hsl(0, 0%, 100%);
+$color-primary-Light: hsl(212, 45%, 89%);
+$color-prmary-medium: hsl(220, 15%, 55%);
+$color-primary-Dark: hsl(218, 44%, 22%);
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+
+
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}

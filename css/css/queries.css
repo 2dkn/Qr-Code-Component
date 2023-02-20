@@ -1,0 +1,14 @@
+@media (max-width: 49rem) {
+
+
+
+  .card {
+    display: flex;
+   /* position: absolute; */
+  }
+
+  .attribution {
+    position: relative;
+   margin-top: 47rem;
+  }
+}
